@@ -1,0 +1,44 @@
+
+.container.data-v-92bb8f34 {
+	padding: 20rpx;
+}
+.chat-content.data-v-92bb8f34 {
+	height: 100vh;
+}
+.message.data-v-92bb8f34 {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20rpx;
+}
+.avatar.data-v-92bb8f34 {
+	width: 90rpx;
+	height: 90rpx;
+	border-radius: 0;
+}
+.message-content.data-v-92bb8f34 {
+	margin-left: 10rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.message-header.data-v-92bb8f34 {
+	margin-bottom: 0rpx;
+}
+.nickname.data-v-92bb8f34 {
+	font-size: 34rpx;
+	color: #242424;
+}
+.message-text.data-v-92bb8f34 {
+	margin-top: 0rpx;
+}
+.text.data-v-92bb8f34 {
+	font-size: 30rpx;
+	color: #333;
+}
+.divider.data-v-92bb8f34 {
+	height: 1rpx;
+	background-color: #ccc;
+	margin-left: 100rpx;
+	/* 根据布局调整分隔线的偏移量 */
+}
+

@@ -1,0 +1,1 @@
+<view class="container"><view data-event-opts="{{[['touchstart',[['startShake',['$event']]]],['touchend',[['endShake',['$event']]]]]}}" class="shake-box" bindtouchstart="__e" bindtouchend="__e"><image class="{{['shake-image',(shaking)?'shaking':'']}}" src="{{shakeImage}}" mode="aspectFill"></image></view><view class="hint-text">{{hintText}}</view></view>

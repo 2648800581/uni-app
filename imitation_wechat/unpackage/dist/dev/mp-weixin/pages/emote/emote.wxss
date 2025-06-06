@@ -1,0 +1,20 @@
+
+.container {
+	padding: 20rpx;
+}
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+.item {
+	width: 33.33%;
+	padding: 10rpx;
+	box-sizing: border-box;
+	text-align: center;
+}
+.emotion {
+	width: 128rpx;
+	height: 128rpx;
+}
+

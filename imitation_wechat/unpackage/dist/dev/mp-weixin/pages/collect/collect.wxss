@@ -1,0 +1,44 @@
+
+.container.data-v-6cfe335c {
+	padding: 20rpx;
+}
+.header.data-v-6cfe335c {
+	margin-bottom: 20rpx;
+}
+.title.data-v-6cfe335c {
+	font-size: 38rpx;
+	font-weight: bold;
+	color: #55557f;
+}
+.empty.data-v-6cfe335c {
+	height: 200rpx;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.list-item.data-v-6cfe335c {
+	display: flex;
+	margin-bottom: 20rpx;
+	padding-bottom: 10rpx;
+	border-bottom: 1px solid #ccc;
+}
+.thumbnail.data-v-6cfe335c {
+	width: 100rpx;
+	height: 100rpx;
+	margin-right: 20rpx;
+	border-radius: 5rpx;
+}
+.info.data-v-6cfe335c {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.title.data-v-6cfe335c {
+	font-size: 28rpx;
+	font-weight: bold;
+}
+.description.data-v-6cfe335c {
+	font-size: 24rpx;
+	color: #999;
+}
+

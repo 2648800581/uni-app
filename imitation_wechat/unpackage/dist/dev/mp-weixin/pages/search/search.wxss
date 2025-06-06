@@ -1,0 +1,45 @@
+
+.container {
+	padding: 20rpx;
+}
+.search-box {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20rpx;
+}
+.search-input {
+	flex: 1;
+	height: 60rpx;
+	padding: 0 20rpx;
+	border: 1rpx solid #ccc;
+	border-radius: 30rpx;
+	outline: none;
+	font-size: 28rpx;
+}
+.search-btn {
+	height: 60rpx;
+	padding: 0 20rpx;
+	border: none;
+	outline: none;
+	background-color: #aaaaff;
+	color: #fff;
+	border-radius: 30rpx;
+	font-size: 28rpx;
+}
+.result-item {
+	padding: 20rpx;
+	border-bottom: 1rpx solid #ccc;
+	font-size: 32rpx;
+	color: #333;
+}
+.add-btn {
+	font-size: 26rpx;
+	padding: 5rpx 10rpx;
+}
+.keyword-item {
+	font-size: 24rpx;
+}
+.delete-btn {
+	font-size: 20rpx;
+}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "通讯录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line"
+  }
+}

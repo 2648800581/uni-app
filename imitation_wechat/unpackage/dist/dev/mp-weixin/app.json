@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/home/home",
+    "pages/list/list",
+    "pages/heart/heart",
+    "pages/user/user",
+    "pages/index/index",
+    "pages/product/product",
+    "pages/collect/collect",
+    "pages/find/find",
+    "pages/emote/emote",
+    "pages/serve/serve",
+    "pages/scan/scan",
+    "pages/shake/shake",
+    "pages/search/search",
+    "pages/user/yjxq/yjxq",
+    "pages/user/xbgn/xbgn",
+    "pages/user/yjnw/yjnw",
+    "pages/user/qtdz/qtdz",
+    "pages/user/xx/xx",
+    "pages/user/Eaiz/Eaiz",
+    "pages/user/toa/toa",
+    "pages/user/bh/bh"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#ededed",
+    "backgroundColor": "#aa0000"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#00c65a",
+    "borderStyle": "black",
+    "backgroundColor": "#ededed",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/wx1.png",
+        "selectedIconPath": "static/wx2.png",
+        "text": "聊天"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "iconPath": "static/txl1.png",
+        "selectedIconPath": "static/txl2.png",
+        "text": "通讯录"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "iconPath": "static/fx1.png",
+        "selectedIconPath": "static/fx2.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/wd1.png",
+        "selectedIconPath": "static/wd2.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

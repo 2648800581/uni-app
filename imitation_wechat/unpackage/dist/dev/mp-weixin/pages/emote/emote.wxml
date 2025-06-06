@@ -1,0 +1,1 @@
+<view class="container"><view class="grid"><block wx:for="{{emotionList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="item"><image class="emotion" src="{{item.image}}" mode="aspectFill" data-event-opts="{{[['tap',[['selectEmotion',['$0'],[[['emotionList','',index,'text']]]]]]]}}" bindtap="__e"></image></view></block></view></view>
