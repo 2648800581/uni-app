@@ -1,6 +1,6 @@
-### uni-app
+# uni-app
 
-# DAVReID和imitation_wechat是用uni-app开发的两个前端项目，可在微信开发者工具和HBuilder X上部署运行。
+DAVReID和imitation_wechat是用uni-app开发的两个前端项目，可在微信开发者工具和HBuilder X上部署运行。
 
 DAVReID是实现车辆重识别的简易系统
 
